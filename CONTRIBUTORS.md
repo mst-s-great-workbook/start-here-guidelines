@@ -34,6 +34,7 @@
 
 - [@PluckyPrecious](https://github.com/PluckyPrecious)
 
+- [@conanmoon](https://github.com/mst-s-great-workbook/)
 - [@haiderali0786](https://github.com/haiderali0786/)
 
 - [@ben-redd](https://github.com/ben-redd/)
